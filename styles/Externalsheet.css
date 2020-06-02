@@ -22,16 +22,15 @@ p {
 
 .table2{
   border-collapse: collapse;
-  border: 2px solid rgb(190,190,190);
+  border: 2px solid blue;
   letter-spacing: 1px;
   font-size: 0.8rem;
   color: blue;
-  border-color: black 2px solid;
 
 }
 
 td, th{
-  border: 1px solid rgb (190,190,190);
+  border: 1px solid blue;
   padding: 10px 20px;
   text-align: center;
 }
