@@ -26,6 +26,7 @@ p {
   letter-spacing: 1px;
   font-size: 0.8rem;
   color: blue;
+  border-color: black;
 }
 
 td, th{
