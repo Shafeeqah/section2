@@ -40,7 +40,3 @@ tr: nth-child(even) td {
 tr: nth-child(odd) td {
   background-color: red;
 }
-
-#IDselector {
-  background-color: red;
-}
