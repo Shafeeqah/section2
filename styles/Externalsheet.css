@@ -27,6 +27,7 @@ p {
   font-size: 0.8rem;
   color: blue;
   border-color: black 2px solid;
+
 }
 
 td, th{
@@ -36,7 +37,7 @@ td, th{
 }
 
 tr:nth-child(even) td {
-  background-color: rgb(250, 250, 250);
+  background-color: white;
 }
 tr:nth-child(odd) td {
   background-color: #E6E6FA;
