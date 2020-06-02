@@ -39,13 +39,9 @@ tr:nth-child(even) td {
   background-color: rgb(250, 250, 250);
 }
 tr:nth-child(odd) td {
-  background-color: red;
+  background-color: #E6E6FA;
 }
 
 caption{
   padding: 10px;
-}
-
-#IDselector {
-  background-color: #591970;
 }
